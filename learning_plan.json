@@ -1,0 +1,27 @@
+{
+    "name": "你的名字",
+    "direction": "计算机视觉",
+    "goal": "12周完成AI视觉项目",
+    "weeks": [
+        {
+            "week": 1,
+            "topic": "科研记录与代码管理",
+            "task": "学习 Git、Markdown、JSON、Python 文件读写"
+        },
+        {
+            "week": 2,
+            "topic": "OpenCV 图像处理",
+            "task": "学习图像读取、绘制与保存"
+        },
+        {
+            "week": 3,
+            "topic": "YOLOv8 目标检测",
+            "task": "完成基础目标检测项目"
+        },
+        {
+            "week": 4,
+            "topic": "ONNX 部署",
+            "task": "实现 ONNX 模型推理"
+        }
+    ]
+}
