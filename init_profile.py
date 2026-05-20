@@ -7,7 +7,7 @@
 
 用法:
   python init_profile.py                          # 基础模式
-  python init_profile.py --name 李四 --interest NLP --week-goal "学习Transformer"  # 挑战模式
+  python init_profile.py --name 李茹 --interest NLP --week-goal "学习Transformer"  # 挑战模式
 """
 
 import os
