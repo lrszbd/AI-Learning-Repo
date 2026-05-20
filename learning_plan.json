@@ -1,12 +1,12 @@
 {
-    "name": "你的名字",
-    "direction": "计算机视觉",
+    "name": "李四",
+    "direction": "NLP",
     "goal": "12周完成AI视觉项目",
     "weeks": [
         {
             "week": 1,
             "topic": "科研记录与代码管理",
-            "task": "学习 Git、Markdown、JSON、Python 文件读写"
+            "task": "学习Transformer架构和注意力机制"
         },
         {
             "week": 2,

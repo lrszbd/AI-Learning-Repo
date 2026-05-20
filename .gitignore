@@ -1,7 +1,23 @@
-
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
 venv/
-.env
+.venv/
+
+# IDE
 .idea/
 .vscode/
+*.swp
+*.swo
+
+# 环境
+.env
+.env.local
+
+# 数据（按需取消注释）
+# data/
+# outputs/
