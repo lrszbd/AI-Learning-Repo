@@ -5,7 +5,7 @@
 ## 本周主题：科研记录与代码管理
 
 ## 学习任务
-学习Transformer架构和注意力机制
+个人科研成长档案生成器。安装好VSCode、Git和基础Python 后，编写一个init_profile.py脚本，读取learning_plan.json,自动生成 README.md 和 week01.md 学习日志模板，并提交到GitHub/Gitee仓库。
 
 ---
 

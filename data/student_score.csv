@@ -1,0 +1,16 @@
+StudentID,Name,Gender,Class,Math,English,Physics,Chemistry,Biology,History,Geography
+2026001,Alice,Female,1,95,88,92,90,89,93,91
+2026002,Bob,Male,1,78,85,80,82,79,84,80
+2026003,Charlie,Male,1,85,90,79,88,92,87,85
+2026004,Diana,Female,1,92,94,91,95,93,90,92
+2026005,Ethan,Male,1,68,75,70,72,77,81,74
+2026006,Fiona,Female,2,88,92,85,87,90,94,89
+2026007,George,Male,2,72,69,75,78,71,77,73
+2026008,Helen,Female,2,96,93,94,91,95,92,90
+2026009,Ivan,Male,2,81,79,83,80,82,78,84
+2026010,Jessica,Female,2,87,91,89,93,88,95,94
+2026011,Kevin,Male,3,75,72,68,74,70,76,71
+2026012,Lily,Female,3,90,89,93,88,91,86,92
+2026013,Michael,Male,3,83,80,86,82,85,79,81
+2026014,Nancy,Female,3,79,84,81,85,83,88,86
+2026015,Owen,Male,3,65,70,66,69,73,75,68
