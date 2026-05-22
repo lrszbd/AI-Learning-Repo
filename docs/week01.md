@@ -1,48 +1,57 @@
 # Week01 学习日志
 
-> 李茹 | 2026-05-20
-
-## 本周主题：科研记录与代码管理
-
-## 学习任务
-个人科研成长档案生成器。安装好VSCode、Git和基础Python 后，编写一个init_profile.py脚本，读取learning_plan.json,自动生成 README.md 和 week01.md 学习日志模板，并提交到GitHub/Gitee仓库。
+> 李茹 | 2026-05-19
 
 ---
 
-## 本周完成情况
+## 研究兴趣
 
-- [x] 安装 VSCode、Git 和基础 Python
-- [x] 注册 GitHub / Gitee 账号
-- [x] 创建个人 AI 学习仓库
-- [x] 编写 `learning_plan.json` 学习计划
-- [x] 编写 `init_profile.py` 自动化脚本
-- [x] 自动生成 `README.md` 和 `week01.md`
-- [x] 完成第一次代码提交
+AI
 
 ---
 
-## 学习心得
+## 本周学习目标
 
-本周初步掌握了科研项目的代码管理方式，学会了：
-
-1. **Git 基础操作**：`git init`、`git add`、`git commit`、`git push`
-2. **Markdown 写作**：标题、列表、表格、代码块
-3. **JSON 数据格式**：结构化存储学习计划
-4. **Python 文件读写**：用脚本自动生成文档
-5. **项目目录规范**：docs / src / data / outputs 分工明确
-
-后续12周的代码、笔记和实验结果都将托管在这个仓库中。
+科研记录与代码管理:个人AI 学习仓库
 
 ---
 
-## 环境配置记录
+## 本周完成内容
 
-| 工具 | 版本 | 状态 |
-|---|---|---|
-| VSCode | latest | ✅ 已安装 |
-| Git | latest | ✅ 已安装 |
-| Python | 3.11 | ✅ 已安装 |
+- 完成本周 AI 学习任务
+- 学习 Python 编程
+- 学习 Git 与 GitHub 项目管理
+- 学习 Markdown 文档编写
+- 持续维护 AI 学习仓库
 
 ---
 
-*此日志由 `init_profile.py` 自动生成*
+## 项目目录结构
+
+AI-Learning-Repo/
+
+docs/        学习日志与文档
+
+src/         Python源代码
+
+data/        数据集
+
+outputs/     输出结果
+
+---
+
+## 本周学习总结
+
+本周完成了个人 AI 学习仓库的搭建，学习并掌握了 Git 与 GitHub 的基础使用流程，包括仓库创建、文件提交与版本更新。同时完成了 Python 环境与 VS Code 的基础配置，能够通过 init_profile.py 读取 JSON 学习计划并自动生成 README 与学习日志文件。通过本周实践，初步理解了科研项目中"代码管理 + 学习记录"的基本规范，也对 Markdown、JSON 与 Git 的协同使用有了更清晰的认识，为后续 AI 项目开发与实验记录打下了基础。
+
+---
+
+## 下一步计划
+
+- 继续完善 AI 学习仓库
+- 学习新的 Python 数据分析与 AI 技术
+- 持续更新 GitHub 项目内容
+
+---
+
+日志由 init_profile.py 自动生成
